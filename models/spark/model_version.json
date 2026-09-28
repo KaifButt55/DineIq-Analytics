@@ -1,0 +1,21 @@
+{
+  "model_name": "menu_classifier",
+  "version": "v1.0",
+  "trained_on": "2026-09-25 01:32:14.878578",
+  "algorithms_compared": [
+    "RandomForest",
+    "DecisionTree",
+    "LogisticRegression"
+  ],
+  "best_model": "RandomForest",
+  "accuracy": 1.0,
+  "f1_score": 1.0,
+  "features_used": [
+    "qty_sold",
+    "profit_pct",
+    "revenue",
+    "cost"
+  ],
+  "training_records": 126,
+  "test_records": 24
+}

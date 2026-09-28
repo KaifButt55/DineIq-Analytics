@@ -1,0 +1,11 @@
+{
+  "errors_handled": [
+    "missing values",
+    "invalid records",
+    "duplicates",
+    "negative quantities",
+    "invalid prices",
+    "cancelled transactions"
+  ],
+  "last_check": "2026-09-25 03:34:27.644860"
+}

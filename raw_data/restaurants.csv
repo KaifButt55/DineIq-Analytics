@@ -1,0 +1,21 @@
+location_id,location_name,city,is_active
+LOC001,DineIQ Branch 1,Rawalpindi,True
+LOC002,DineIQ Branch 2,Rawalpindi,True
+LOC003,DineIQ Branch 3,Karachi,True
+LOC004,DineIQ Branch 4,Rawalpindi,True
+LOC005,DineIQ Branch 5,Islamabad,True
+LOC006,DineIQ Branch 6,Rawalpindi,True
+LOC007,DineIQ Branch 7,Lahore,True
+LOC008,DineIQ Branch 8,Rawalpindi,True
+LOC009,DineIQ Branch 9,Lahore,True
+LOC010,DineIQ Branch 10,Faisalabad,True
+LOC011,DineIQ Branch 11,Islamabad,True
+LOC012,DineIQ Branch 12,Faisalabad,True
+LOC013,DineIQ Branch 13,Faisalabad,True
+LOC014,DineIQ Branch 14,Rawalpindi,True
+LOC015,DineIQ Branch 15,Rawalpindi,True
+LOC016,DineIQ Branch 16,Rawalpindi,True
+LOC017,DineIQ Branch 17,Faisalabad,True
+LOC018,DineIQ Branch 18,Islamabad,True
+LOC019,DineIQ Branch 19,Islamabad,True
+LOC020,DineIQ Branch 20,Lahore,True

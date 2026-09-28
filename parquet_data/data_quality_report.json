@@ -1,0 +1,17 @@
+{
+  "missing_orders": 0,
+  "missing_items": 0,
+  "missing_menu": 0,
+  "missing_customers": 0,
+  "duplicate_orders": 0,
+  "duplicate_order_lines": 0,
+  "invalid_menu_prices": 0,
+  "negative_quantities": 0,
+  "invalid_dates": 0,
+  "invalid_ratings": 0,
+  "missing_customer_ids": 0,
+  "missing_menu_ids": 0,
+  "invalid_location_refs": 0,
+  "impossible_wastage": 0,
+  "cancelled_transactions": 15047
+}

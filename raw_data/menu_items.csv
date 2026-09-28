@@ -1,0 +1,151 @@
+item_id,item_name,category,cost,base_price,is_available
+ITM0001,Main Course_Item_1,Main Course,61.25,117.14,True
+ITM0002,Desserts_Item_2,Desserts,381.41,959.26,True
+ITM0003,Breakfast_Item_3,Breakfast,239.86,370.51,True
+ITM0004,Beverages_Item_4,Beverages,277.41,427.16,True
+ITM0005,Seafood_Item_5,Seafood,238.78,519.06,True
+ITM0006,Starters_Item_6,Starters,391.46,680.94,False
+ITM0007,Chinese_Item_7,Chinese,175.04,319.09,True
+ITM0008,Main Course_Item_8,Main Course,91.74,150.92,True
+ITM0009,Breakfast_Item_9,Breakfast,169.03,264.56,False
+ITM0010,Seafood_Item_10,Seafood,106.17,306.14,True
+ITM0011,Seafood_Item_11,Seafood,181.93,444.45,True
+ITM0012,Breakfast_Item_12,Breakfast,136.53,219.04,True
+ITM0013,Fast Food_Item_13,Fast Food,493.35,1372.98,True
+ITM0014,Italian_Item_14,Italian,175.09,429.59,True
+ITM0015,Desserts_Item_15,Desserts,216.58,392.93,True
+ITM0016,Main Course_Item_16,Main Course,324.11,569.37,True
+ITM0017,Desserts_Item_17,Desserts,258.02,491.51,True
+ITM0018,Chinese_Item_18,Chinese,429.28,1143.6,True
+ITM0019,Starters_Item_19,Starters,412.27,866.49,True
+ITM0020,Beverages_Item_20,Beverages,460.91,1083.49,True
+ITM0021,Beverages_Item_21,Beverages,344.95,722.13,False
+ITM0022,Desserts_Item_22,Desserts,169.2,316.39,True
+ITM0023,Breakfast_Item_23,Breakfast,242.8,576.72,True
+ITM0024,Beverages_Item_24,Beverages,498.8,851.7,False
+ITM0025,Main Course_Item_25,Main Course,390.1,1089.02,True
+ITM0026,Desserts_Item_26,Desserts,406.44,867.03,True
+ITM0027,Italian_Item_27,Italian,221.73,663.9,True
+ITM0028,Seafood_Item_28,Seafood,437.35,663.56,True
+ITM0029,Seafood_Item_29,Seafood,387.9,1029.06,True
+ITM0030,Main Course_Item_30,Main Course,182.08,316.32,True
+ITM0031,Fast Food_Item_31,Fast Food,487.35,1288.04,True
+ITM0032,Fast Food_Item_32,Fast Food,428.75,969.62,True
+ITM0033,Desserts_Item_33,Desserts,218.26,380.28,True
+ITM0034,Breakfast_Item_34,Breakfast,195.87,299.53,True
+ITM0035,Fast Food_Item_35,Fast Food,157.75,293.62,True
+ITM0036,Main Course_Item_36,Main Course,379.36,1033.39,True
+ITM0037,Desserts_Item_37,Desserts,346.89,1013.01,True
+ITM0038,Fast Food_Item_38,Fast Food,287.45,692.72,True
+ITM0039,Seafood_Item_39,Seafood,389.87,988.24,True
+ITM0040,Italian_Item_40,Italian,497.82,1232.01,False
+ITM0041,Seafood_Item_41,Seafood,253.17,473.9,True
+ITM0042,Chinese_Item_42,Chinese,59.47,138.62,True
+ITM0043,Starters_Item_43,Starters,81.95,200.5,True
+ITM0044,Main Course_Item_44,Main Course,457.44,1276.01,True
+ITM0045,Seafood_Item_45,Seafood,157.1,393.29,True
+ITM0046,Seafood_Item_46,Seafood,109.54,318.02,False
+ITM0047,Beverages_Item_47,Beverages,403.08,1092.85,True
+ITM0048,Main Course_Item_48,Main Course,93.62,200.96,False
+ITM0049,Italian_Item_49,Italian,260.16,674.75,True
+ITM0050,Starters_Item_50,Starters,231.18,464.43,True
+ITM0051,Beverages_Item_51,Beverages,136.22,313.91,True
+ITM0052,Italian_Item_52,Italian,132.57,290.85,True
+ITM0053,BBQ_Item_53,BBQ,413.61,1151.47,True
+ITM0054,Starters_Item_54,Starters,343.47,793.72,True
+ITM0055,Main Course_Item_55,Main Course,466.87,1294.65,True
+ITM0056,Italian_Item_56,Italian,268.54,488.91,False
+ITM0057,Starters_Item_57,Starters,124.09,186.54,False
+ITM0058,Fast Food_Item_58,Fast Food,466.93,1250.3,True
+ITM0059,Italian_Item_59,Italian,363.47,943.48,False
+ITM0060,Desserts_Item_60,Desserts,135.45,247.41,True
+ITM0061,Breakfast_Item_61,Breakfast,381.08,606.46,True
+ITM0062,Starters_Item_62,Starters,72.56,160.73,True
+ITM0063,Starters_Item_63,Starters,482.35,781.49,True
+ITM0064,Main Course_Item_64,Main Course,317.77,798.5,True
+ITM0065,Italian_Item_65,Italian,103.95,294.74,True
+ITM0066,Breakfast_Item_66,Breakfast,317.53,771.3,False
+ITM0067,Breakfast_Item_67,Breakfast,304.35,600.96,True
+ITM0068,Beverages_Item_68,Beverages,351.38,692.67,True
+ITM0069,Italian_Item_69,Italian,108.9,268.79,False
+ITM0070,Chinese_Item_70,Chinese,468.06,1359.06,True
+ITM0071,BBQ_Item_71,BBQ,329.52,772.56,True
+ITM0072,Main Course_Item_72,Main Course,291.94,659.44,True
+ITM0073,Chinese_Item_73,Chinese,446.39,1258.33,True
+ITM0074,Fast Food_Item_74,Fast Food,120.99,332.8,True
+ITM0075,Breakfast_Item_75,Breakfast,492.73,1335.62,True
+ITM0076,Seafood_Item_76,Seafood,184.72,460.89,True
+ITM0077,Fast Food_Item_77,Fast Food,101.94,169.28,True
+ITM0078,Fast Food_Item_78,Fast Food,176.79,321.04,True
+ITM0079,Beverages_Item_79,Beverages,359.37,998.82,False
+ITM0080,Fast Food_Item_80,Fast Food,457.4,1266.61,True
+ITM0081,Italian_Item_81,Italian,423.21,662.8,True
+ITM0082,Desserts_Item_82,Desserts,336.7,637.35,False
+ITM0083,Seafood_Item_83,Seafood,367.55,860.57,True
+ITM0084,Main Course_Item_84,Main Course,475.27,1205.54,True
+ITM0085,Seafood_Item_85,Seafood,66.21,135.98,True
+ITM0086,Italian_Item_86,Italian,107.35,210.66,True
+ITM0087,Chinese_Item_87,Chinese,144.53,270.89,True
+ITM0088,Chinese_Item_88,Chinese,401.05,1133.45,False
+ITM0089,Breakfast_Item_89,Breakfast,387.26,1118.66,True
+ITM0090,Desserts_Item_90,Desserts,489.29,1328.99,False
+ITM0091,Starters_Item_91,Starters,130.71,377.32,False
+ITM0092,Beverages_Item_92,Beverages,170.06,455.94,True
+ITM0093,Italian_Item_93,Italian,442.48,1233.59,True
+ITM0094,Beverages_Item_94,Beverages,417.46,914.43,True
+ITM0095,Beverages_Item_95,Beverages,150.32,374.3,False
+ITM0096,Chinese_Item_96,Chinese,175.37,281.32,True
+ITM0097,Chinese_Item_97,Chinese,338.67,711.04,True
+ITM0098,Starters_Item_98,Starters,101.9,301.18,True
+ITM0099,Breakfast_Item_99,Breakfast,483.14,917.1,True
+ITM0100,Breakfast_Item_100,Breakfast,245.55,636.67,True
+ITM0101,Italian_Item_101,Italian,322.79,731.81,False
+ITM0102,Breakfast_Item_102,Breakfast,135.54,212.33,False
+ITM0103,Starters_Item_103,Starters,283.96,769.47,True
+ITM0104,Chinese_Item_104,Chinese,244.08,713.52,True
+ITM0105,Breakfast_Item_105,Breakfast,191.26,530.18,True
+ITM0106,Seafood_Item_106,Seafood,189.18,399.66,False
+ITM0107,Fast Food_Item_107,Fast Food,299.49,535.42,False
+ITM0108,Desserts_Item_108,Desserts,326.98,638.08,True
+ITM0109,Fast Food_Item_109,Fast Food,179.11,384.16,True
+ITM0110,BBQ_Item_110,BBQ,248.8,625.34,False
+ITM0111,Desserts_Item_111,Desserts,346.48,667.21,True
+ITM0112,Main Course_Item_112,Main Course,418.29,1098.73,True
+ITM0113,Beverages_Item_113,Beverages,412.95,710.7,True
+ITM0114,Beverages_Item_114,Beverages,492.77,1190.98,True
+ITM0115,BBQ_Item_115,BBQ,236.5,578.16,True
+ITM0116,Italian_Item_116,Italian,272.47,508.42,True
+ITM0117,Main Course_Item_117,Main Course,400.29,731.83,False
+ITM0118,Starters_Item_118,Starters,300.83,865.25,True
+ITM0119,BBQ_Item_119,BBQ,110.0,241.67,True
+ITM0120,BBQ_Item_120,BBQ,325.69,839.93,False
+ITM0121,Seafood_Item_121,Seafood,250.66,435.83,False
+ITM0122,BBQ_Item_122,BBQ,166.64,311.76,True
+ITM0123,Seafood_Item_123,Seafood,268.07,498.31,False
+ITM0124,Main Course_Item_124,Main Course,371.1,687.18,True
+ITM0125,Chinese_Item_125,Chinese,451.86,732.4,True
+ITM0126,Beverages_Item_126,Beverages,222.37,384.52,True
+ITM0127,Main Course_Item_127,Main Course,236.69,472.51,False
+ITM0128,Italian_Item_128,Italian,78.02,214.5,False
+ITM0129,Breakfast_Item_129,Breakfast,475.73,727.53,False
+ITM0130,BBQ_Item_130,BBQ,52.65,106.76,False
+ITM0131,Italian_Item_131,Italian,292.2,760.29,True
+ITM0132,BBQ_Item_132,BBQ,148.74,320.35,True
+ITM0133,Italian_Item_133,Italian,201.26,506.92,False
+ITM0134,Desserts_Item_134,Desserts,428.23,1233.01,True
+ITM0135,Italian_Item_135,Italian,316.35,789.13,True
+ITM0136,Italian_Item_136,Italian,111.06,243.5,True
+ITM0137,Fast Food_Item_137,Fast Food,220.6,400.94,True
+ITM0138,Chinese_Item_138,Chinese,392.55,812.06,False
+ITM0139,Fast Food_Item_139,Fast Food,425.71,938.89,True
+ITM0140,Chinese_Item_140,Chinese,150.9,241.88,True
+ITM0141,Starters_Item_141,Starters,477.33,858.74,True
+ITM0142,Breakfast_Item_142,Breakfast,118.57,200.3,True
+ITM0143,Breakfast_Item_143,Breakfast,476.49,1047.11,True
+ITM0144,Chinese_Item_144,Chinese,125.51,302.59,True
+ITM0145,Desserts_Item_145,Desserts,484.12,804.68,True
+ITM0146,Fast Food_Item_146,Fast Food,309.11,884.68,False
+ITM0147,Italian_Item_147,Italian,473.66,851.4,True
+ITM0148,Main Course_Item_148,Main Course,363.74,710.16,True
+ITM0149,Breakfast_Item_149,Breakfast,402.19,812.75,False
+ITM0150,Chinese_Item_150,Chinese,81.03,200.25,True

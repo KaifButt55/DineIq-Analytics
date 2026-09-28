@@ -1,0 +1,3 @@
+Removed duplicates: 0
+Removed cancelled: 15047
+Removed invalid amounts: 0
